@@ -4,7 +4,7 @@ Repository for the Arduino sketches for my prop replica of the Tron: Legacy iden
 - YouTube: https://www.youtube.com/playlist?list=PLyythBBSchB6DWGi_5Xz2ogSqaS3vKtYN
 - The RPF: https://www.therpf.com/showthread.php?t=273990
 
-A very big thank you to Erv Plecter. He created the disc that inspired this whole project and was kind enough to provide me with his Arduino sketch. All animation related code is comes from his sketch. 
+A very big thank you to Erv Plecter. He created the disc that inspired this whole project and was kind enough to provide me with his Arduino sketch. All animation related code comes from his sketch. 
 Check out the following links for his project:
 - http://www.plecterlabs.com/shop/article_info.php?articles_id=46
 - https://www.youtube.com/watch?v=r3yqpkfUP4M
