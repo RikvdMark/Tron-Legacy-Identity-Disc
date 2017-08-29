@@ -1,0 +1,31 @@
+v0.1 - Integrated Animation code from the Plecterlabs sketch to my own sketch. This made it easier to learn 
+	   about Erv's animation coding.
+	   Removed serial communication code from Plecterlabs sketch and added my buttoncontrol code to replace it.
+
+------------------------------------------------	   
+v0.2.0 - Tried triggering audio from the 'ParseSyntax' function, worked but audio was slowed very much in 	 
+		 combination with the c-ring animation. Conversely for the blade it slowed down the blade animation but not the audio.
+		 
+v0.2.1 - Tried triggering audio from the 'Animate' function.
+	     Doesn't work correctly, C-ring animation stops after second segment. Audio plays fine though but 
+		 the Arduino (sketch) seizes up. Nothing else responds anymore.
+		 Conversely when uploading the sketch again and trying the blade animation only one NeoPixel lights up, after that the animation fails but the audio track is played correctly.
+
+Created Visio flow diagram to get a better understanding of the animation code(functions), how they work an tigh together.
+May need a secondary board to control the NeoPixels and have the M0 only control the Music Maker.
+Serial communication can be used between boards. This would make Bluetooth an option again.
+
+v0.2.2 - Rearanged animation functions.
+		 Copied c-ring animation trigger from the "ParseSyntax" function to the "Void loop". c-ring boot animation is now triggerd upon disc powerup.
+
+v0.2.3 - Continued work on triggering sound effects together with the animations.
+         Triggering the audio file from the "void setup" sections works. C-ring animation + audio works now, however, playing audio still slows down the animation.
+		 
+v0.2.4 - Triggering blade audio from the "ParseSyntax" function again. Works but still slows the animation from this point.
+		 Also included blade deactivation sound from Saberfront Audio font package by Novastar.
+		 // Apparantly the Music Maker audio triggers only seem to work okay when triggered in setup (void setup).
+		 
+
+------------------------------------------------
+
+	
