@@ -24,7 +24,9 @@ v0.2.3 - Continued work on triggering sound effects together with the animations
 v0.2.4 - Triggering blade audio from the "ParseSyntax" function again. Works but still slows the animation from this point.
 		 Also included blade deactivation sound from Saberfront Audio font package by Novastar.
 		 // Apparantly the Music Maker audio triggers only seem to work okay when triggered in setup (void setup).
-		 
+
+v0.2.5 - Added reset for MusicMaker to troubleshoot incidental boot issues where audio does not work.
+         Reset didn't seem to work so I added adititonal "pause" commands for the music maker which seems to do te trick.
 
 ------------------------------------------------
 
