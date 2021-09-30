@@ -1,11 +1,12 @@
+# Tron-Legacy-Identity-Disc
+Repository for the Arduino sketches for my prop replica of the Tron: Legacy identity disc. Including all the test/learning stuff. Details about the project are on; 
+
 Relevant file to use:
 https://github.com/RikvdMark/Tron-Legacy-Identity-Disc/tree/master/Testing/4.%20PlecterLabs%20animation/RiCor-Tron_IDdisc_PlectorLabs_v0.2.4_Blade
 
 Please don't ask for any support, I uploaded all the version so you can slowely build it up yourself. 
 Some Arduino revisions might require a few changes. best way is to build it up step-by-step should you encounter any issues you can't figure out.
 
-# Tron-Legacy-Identity-Disc
-Repository for the Arduino sketches for my prop replica of the Tron: Legacy identity disc. Including all the test/learning stuff. Details about the project are on; 
 - website: https://www.ricor.net/tron-legacy-sam-flynn-identity-disc/
 - RPF thread: https://www.therpf.com/showthread.php?t=273990
 - Playlist on Youtube: https://www.youtube.com/playlist?list=PLyythBBSchB6DWGi_5Xz2ogSqaS3vKtYN
