@@ -2,7 +2,8 @@
 Repository for the Arduino sketches for my prop replica of the Tron: Legacy identity disc. Including all the test/learning stuff. 
 
 Please don't ask for any support, I uploaded all the version so you can slowely build it up yourself. 
-Some Arduino revisions might require a few changes. Best way is to build it up step-by-step should you encounter any issues you can't figure out. That ay yu can easily undo that last change and figure out where you went wrong.
+Some Arduino revisions might require a few changes. Best way is to build it up step-by-step should you encounter any issues you can't figure out. 
+That way you can easily undo that last change and figure out where you went wrong.
 For this reason I created a playlist on my YouTube channel mentioned below where I explain the different revisions and what all the relevant stuff does.
 
 Relevant file to use:
