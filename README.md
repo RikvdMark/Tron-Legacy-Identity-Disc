@@ -6,7 +6,7 @@ https://github.com/RikvdMark/Tron-Legacy-Identity-Disc/tree/master/Testing/4.%20
 
 Please don't ask for any support, I uploaded all the version so you can slowely build it up yourself. 
 Some Arduino revisions might require a few changes. best way is to build it up step-by-step should you encounter any issues you can't figure out.
-For this reason I created a playlist on my YouTube channel mentioned below where I explain the different revisions and whag all the relevant stuff does.
+For this reason I created a playlist on my YouTube channel mentioned below where I explain the different revisions and what all the relevant stuff does.
 
 - website: https://www.rvdmark.com/tron-legacy-sam-flynn-identity-disc/
 - RPF thread: https://www.therpf.com/showthread.php?t=273990
