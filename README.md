@@ -5,7 +5,7 @@ Relevant file to use:
 https://github.com/RikvdMark/Tron-Legacy-Identity-Disc/tree/master/Testing/4.%20PlecterLabs%20animation/RiCor-Tron_IDdisc_PlectorLabs_v0.2.4_Blade
 
 Please don't ask for any support, I uploaded all the version so you can slowely build it up yourself. 
-Some Arduino revisions might require a few changes. best way is to build it up step-by-step should you encounter any issues you can't figure out.
+Some Arduino revisions might require a few changes. Best way is to build it up step-by-step should you encounter any issues you can't figure out. That ay yu can easily undo that last change and figure out where you went wrong.
 For this reason I created a playlist on my YouTube channel mentioned below where I explain the different revisions and what all the relevant stuff does.
 
 - website: https://www.rvdmark.com/tron-legacy-sam-flynn-identity-disc/
